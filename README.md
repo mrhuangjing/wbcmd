@@ -3,7 +3,7 @@
 
 # 安装
 ```bash
-$ wnpm install -g @webank/wbcmd
+$ wnpm install -g wbcmd
 ```
 
 # 说明
